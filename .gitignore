@@ -1,6 +1,9 @@
-// System files
+# System files
 .DS_Store
 .sass-cache/
 
-// Shopify development stores
+# Shopify development stores
 config.yml
+
+# jetbrains
+.idea
